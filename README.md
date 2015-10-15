@@ -1,7 +1,7 @@
 # jquery-tabhover
-Provide accessible hover emulation when tabbing through HTML elements.
+Provide keyboard accessible hover emulation when tabbing through HTML elements.
 
-Example usage (with all options):
+**Example usage (with all options):**
 
 ```js
 
